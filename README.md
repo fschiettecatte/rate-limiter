@@ -8,3 +8,6 @@ the rate meaning the client will have to wait longer to be allowed back in.
 
 - The other caps the number of requests over a time period.
 
+
+
+
